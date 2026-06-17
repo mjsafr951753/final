@@ -9,6 +9,7 @@ public class OperacionesCortas {
      */
     public static void main(String[] args) {
         // Definición e inicialización de las variables numéricas
+        // int a valdra 10 y b valdra 5
         int a = 10, b = 5;
 
         // Imprime en consola el resultado de invocar al método 'sumar'
